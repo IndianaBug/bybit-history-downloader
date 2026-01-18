@@ -106,7 +106,7 @@ async def run():
 
 asyncio.run(run())
 
-
+```
 ⚠️ Disclaimer
 
 This tool scrapes Bybit’s public UI.
