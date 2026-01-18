@@ -24,6 +24,7 @@ pip install \
   playwright \
   httpx \
   tqdm
+  pytest
 
 echo "▶ Installing Playwright browser (Chromium)"
 python -m playwright install --with-deps chromium
